@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+.gallery {
+    display: inline-block;
+    width: 30%;
+}
+
+img {
+    width: 80%;
+    height: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.description {
+    width: 72%;
+    padding-left: 14%;
+    padding-right: 14%;
+    text-align: left;
+}
+
+.title {
+    padding-left: 14%;
+    color: aqua;
+    text-align: left;
+}
